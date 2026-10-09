@@ -1,0 +1,1 @@
+end to end customer segmentation using elbow and silhouste score 
